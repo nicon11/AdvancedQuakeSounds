@@ -51,11 +51,6 @@
 ******* DEFINITIONS ******************************************************************
 *************************************************************************************/
 
-// SECONDS DELAY TO SHOW THE INFORMATION MESSAGE REGARDING '/SOUNDS' COMMAND
-// AFTER THE PLAYER JOINS THE GAME SERVER
-//
-#define QS_PLUGIN_INFORMATION_DELAY		( 6.0 )				// 6
-
 // HUD MESSAGE'S MAXIMUM LENGTH
 //
 #define QS_HUD_MESSAGE_MAX_LENGTH		( 384 )				// 384
